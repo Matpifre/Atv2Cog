@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "dwN9Km6QYDovsWKvwdQR/p2tamNSMZ7DBoVGp+AWpVQHT6WWhJiVU/kWdptYp3/wGZmi9fYm6j2LnCqGQVEaHQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\joaol\\Downloads\\Atividade 2\\Exercicio 2\\Projeto.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\joaol\\.nuget\\packages\\skiasharp\\2.88.6\\skiasharp.2.88.6.nupkg.sha512",
+    "C:\\Users\\joaol\\.nuget\\packages\\skiasharp.nativeassets.linux\\2.88.3\\skiasharp.nativeassets.linux.2.88.3.nupkg.sha512",
+    "C:\\Users\\joaol\\.nuget\\packages\\skiasharp.nativeassets.macos\\2.88.6\\skiasharp.nativeassets.macos.2.88.6.nupkg.sha512",
+    "C:\\Users\\joaol\\.nuget\\packages\\skiasharp.nativeassets.win32\\2.88.6\\skiasharp.nativeassets.win32.2.88.6.nupkg.sha512"
+  ],
+  "logs": []
+}

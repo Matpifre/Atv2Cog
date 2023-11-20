@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "/4D0mj4TSbOgIylqTp2wcrW+hq6kelGNkKZb3QR7pCJeiouQVhF6vwQe28u8dgUpCy5WBNw3jXtcqnKP76ldTw==",
+  "success": true,
+  "projectFilePath": "C:\\Atv2Cog\\Exercicio 1\\Projeto.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mateus.freitas\\.nuget\\packages\\skiasharp\\2.88.6\\skiasharp.2.88.6.nupkg.sha512",
+    "C:\\Users\\mateus.freitas\\.nuget\\packages\\skiasharp.nativeassets.linux\\2.88.3\\skiasharp.nativeassets.linux.2.88.3.nupkg.sha512",
+    "C:\\Users\\mateus.freitas\\.nuget\\packages\\skiasharp.nativeassets.macos\\2.88.6\\skiasharp.nativeassets.macos.2.88.6.nupkg.sha512",
+    "C:\\Users\\mateus.freitas\\.nuget\\packages\\skiasharp.nativeassets.win32\\2.88.6\\skiasharp.nativeassets.win32.2.88.6.nupkg.sha512"
+  ],
+  "logs": []
+}
